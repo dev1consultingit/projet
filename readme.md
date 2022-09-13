@@ -54,6 +54,7 @@ Merci de lire les fichiers :
 ## Auteurs
 
 * **Dev1**
+* **Dev3**
 
 ## License
 
